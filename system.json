@@ -1,0 +1,9 @@
+{
+    "auth": true,
+    "description": "",
+    "messaging_url": "platform.clearblade.com:1883",
+    "name": "GitHubActionsIntegration",
+    "platform_url": "https://platform.clearblade.com",
+    "system_key": "9e82dfa80cece4bdcfe2ccfca1b401",
+    "system_secret": ""
+}
