@@ -1,0 +1,30 @@
+{
+    "asset_types": [
+        "Code Services",
+        "Devices",
+        "Edges",
+        "Roles",
+        "Users"
+    ],
+    "author": {
+        "email": "aallsbrook@clearblade.com"
+    },
+    "clouds": [],
+    "description": "",
+    "domains": [],
+    "exportRows": false,
+    "gateways": [],
+    "image_url": "https://docs.clearblade.com/v/4/static/img/default_package.png",
+    "keywords": [
+        "clearblade",
+        "iot",
+        "platform"
+    ],
+    "license": "MIT",
+    "name": "GitHubActionsIntegration",
+    "private": false,
+    "prog_lang": [],
+    "protocols": [],
+    "things": [],
+    "version": "1.0.0"
+}
